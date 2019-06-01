@@ -1,0 +1,16 @@
+<?php
+
+namespace common\models\query;
+
+/**
+ * This is the ActiveQuery class for [[\common\models\base\ServiceProduct]].
+ *
+ * @see \common\models\base\ServiceProduct
+ */
+class ServiceProductQuery extends \common\models\base\query\ServiceProductQuery
+{
+    public function active()
+    {
+        return $this->andWhere('[[status]]=1');
+    }
+}

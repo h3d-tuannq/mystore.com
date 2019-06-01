@@ -1,0 +1,22 @@
+chốt trong đêm nay tao cần:
+1-bật hết các loại thông báo của khách hàng(báo sinh nhật và báo dịch vụ)
+    - bật hết thông báo sản phẩm ( số lượng dưới 10 mới thông báo)
+2- báo cáo doanh thu tháng của dịch vụ ( trong tháng làm những dv nào (
+    dịch vụ chứ không phải combo
+    - nếu khách dùng combo thì select dịch vụ đã dùng trong combo ra) và mỗi dịch vụ làm bao nhiêu lần
+3- cái danh mục khách hàng tao cần 1 loại là khách hàng tiềm năng (
+    danh sách những khách hàng chưa sử dụng dịch vụ nhưng cần chăm sóc kỹ
+    - và bật thông báo của những khách này 6 ngày nhắc nhắn tin 1 lần)
+
+- Link giữa báo cáo nhân viên và dịch vụ, theo ngày tháng và mã
+- Thêm tính năng: Làm dịch vụ
+- khách mua HĐ 10tr tặng 6tr
+  thanh toán trước 5tr
+  xong rồi khách đổi ý
+  mua gói 5tr tặng 2tr thôi
+  nên e sửa lại hóa đơn là 5tr tặng 2tr
+  anh cộng cmn dồn lịa luôn
+  đáng lẽ tk của bà ý là 7tr
+  anh cho bà ý lên 24.5tr
+
+- tính lương nv đc chưa, Lương cơ bản + số buổi làm + tiền thưởng
